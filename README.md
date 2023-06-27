@@ -1,4 +1,5 @@
 # reomotoReadme
-Cambio en el archivo
-otro cambio
-modificacion en github
+Cambio en el archivo,
+otro cambio,
+modificacion en github,
+nuevo cambio
